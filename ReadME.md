@@ -1,1 +1,1 @@
-"SauceDemo Autmation" 
+"SauceDemo Automation" 
